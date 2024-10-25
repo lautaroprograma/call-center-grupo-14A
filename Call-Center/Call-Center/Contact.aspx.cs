@@ -13,5 +13,10 @@ namespace Call_Center
         {
 
         }
+
+        protected void txtPrioridad_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
