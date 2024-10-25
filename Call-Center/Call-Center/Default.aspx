@@ -4,38 +4,37 @@
 
     <main>
         <section class="row" aria-labelledby="aspnetTitle">
-            <h1 id="aspnetTitle">ASP.NET</h1>
-            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-            <p><a href="http://www.asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+            <h1 id="aspnetTitle">Call Center</h1>
+            <p class="lead">Este sistema permite gestionar y rastrear incidentes de manera eficiente para garantizar una rápida resolución.</p>
+            <p><a href="#" class="btn btn-primary btn-md">Crear gestión &raquo;</a></p>
         </section>
 
         <div class="row">
             <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-                <h2 id="gettingStartedTitle">Getting started</h2>
+                <h2 id="gettingStartedTitle">Buscar Incidente</h2>
                 <p>
-                    ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                    Permite realizar búsquedas de incidentes específicos en el sistema, ya sea por numero de ticket, cliente, o telefonista.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="#">Buscar &raquo;</a>
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="librariesTitle">
-                <h2 id="librariesTitle">Get more libraries</h2>
+                <h2 id="librariesTitle">Administrar Usuarios</h2>
                 <p>
-                    NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                    Herramienta para gestionar los usuarios del sistema, con opciones de crear, modificar, y asignar permisos a cada perfil.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="#">Administrar &raquo;</a>
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="hostingTitle">
-                <h2 id="hostingTitle">Web Hosting</h2>
+                <h2 id="hostingTitle">Manual de Uso</h2>
                 <p>
-                    You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                    Manual detallado para entender el funcionamiento del sistema, con las funciones principales y como utilizarlo.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="#">Leer más &raquo;</a>
                 </p>
             </section>
         </div>
